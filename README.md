@@ -14,7 +14,9 @@
 
 ## 서비스 별 주요 기능
 
-#### [게이트웨이 서비스](https://github.com/sjmoon31/GatewayService/tree/master) → ※ 링크 클릭 시 소스 경로로 이동
+#### [Discovery 서비스](https://github.com/sjmoon31/EurekaDiscoveryService/tree/master) → ※ 링크 클릭 시 소스 경로로 이동
+- 마이크로서비스 아키텍처에서 서비스 간의 상호 작용을 관리
+#### [Gateway 서비스](https://github.com/sjmoon31/GatewayService/tree/master)
 - 서비스간 라우팅 설정
 #### [사용자 서비스](https://github.com/sjmoon31/MemberService/tree/master)
 - 로그인, oauth 로그인, JWT 토큰 인증, 마이페이지
