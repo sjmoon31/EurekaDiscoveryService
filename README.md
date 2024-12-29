@@ -1,7 +1,7 @@
 
 ## 프로젝트 개요
 기존 모놀리식 아키텍처로 구현된 쇼핑몰 프로젝트를 마이크로서비스 아키텍처(MSA) 기반으로 리팩토링하여 재구현
-- 모놀리식 아키텍처와 마이크로서비스 아키텍처의 차이점: https://msj725.tistory.com/229
+모놀리식 아키텍처와 마이크로서비스 아키텍처의 차이점에 대해서는 Tistory 블로그에서 자세히 설명한 내용을 참고할 수 있습니다. [Link](https://msj725.tistory.com/229)
 
 #### 기존 흐름도
 ![image](https://github.com/user-attachments/assets/99f1c559-6e35-4cfe-a2c5-e94f5410b3a3)
