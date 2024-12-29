@@ -8,7 +8,7 @@
 - 기능(계정 관리, 상품 관리, 주문 관리 등)이 모두 하나의 모놀리식 애플리케이션에서 처리되며, 사용자 요청이 서버로 직접 전달되어 동작하는 구조.
 
 ### MSA로 변경 후 흐름도
-![image](https://github.com/user-attachments/assets/df9b542f-fc12-47d3-87c0-665e387322af)
+![image](https://github.com/user-attachments/assets/31145876-a6d6-4698-9930-dc9ecea0b504)
 - 각 기능(계정 서비스, 상품 서비스, 주문 서비스 등)이 독립적인 마이크로서비스로 분리되어 관리되며, 클라이언트 요청은 API Gateway를 통해 각 서비스로 라우팅되고, 서비스 간 통신은 Eureka(서비스 디스커버리)를 통해 이루어지는 구조.
 
 
