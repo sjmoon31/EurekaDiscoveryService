@@ -27,5 +27,39 @@
 ### [웹 서비스](https://github.com/sjmoon31/WebService/tree/master)
 - 상품 페이지 프론트엔드 구현
 
+## 화면
+
+### 로그인
+<img src="https://github.com/user-attachments/assets/17d7b4ac-c249-438f-8934-72a42ad51313" width="300">
+
+### 회원가입
+<img src="https://github.com/user-attachments/assets/ccdab4e7-a27a-4103-8d2b-7962e2ab0ed5" width="400">
+
+### 메인
+![메인](https://github.com/user-attachments/assets/640f8cd2-5407-47de-8181-b9d0715e3325)
+
+### 상품 목록
+![상품목록](https://github.com/user-attachments/assets/ea680a0f-b81f-4061-9382-d5269be145a7)
+
+### 상품 상세
+![상품상세](https://github.com/user-attachments/assets/8c1ede0d-20ea-445a-a3dc-1593fb6269ff)
+
+### 장바구니
+![장바구니](https://github.com/user-attachments/assets/d876131c-1821-4d76-9027-374a119a5f82)
+
+### 결제
+![결제](https://github.com/user-attachments/assets/66452bda-0d19-4da4-879c-33d9ab09f3dd)
+![결제2](https://github.com/user-attachments/assets/216fcb72-7e3b-4853-9ef7-986ec956bc1f)
+
+### 마이페이지
+![마이페이지](https://github.com/user-attachments/assets/6bd4a6b7-6ee2-4b30-99c9-7e2c53791065)
+
+### 주문 내역
+![주문내역](https://github.com/user-attachments/assets/f7eea451-0c48-4fb9-b325-4340b47a0b61)
+
+### 찜한 상품
+![좋아요](https://github.com/user-attachments/assets/3facb333-98d6-427b-a1e8-665312ad607b)
+
+
 
 
