@@ -42,7 +42,7 @@
 ![상품목록](https://github.com/user-attachments/assets/ea680a0f-b81f-4061-9382-d5269be145a7)
 
 ### 상품 상세
-![상품상세](https://github.com/user-attachments/assets/8c1ede0d-20ea-445a-a3dc-1593fb6269ff)
+![상품상세](https://github.com/user-attachments/assets/03340100-863c-452d-98a8-53f1f504d1dd)
 
 ### 장바구니
 ![장바구니](https://github.com/user-attachments/assets/d876131c-1821-4d76-9027-374a119a5f82)
@@ -56,6 +56,9 @@
 
 ### 주문 내역
 ![주문내역](https://github.com/user-attachments/assets/f7eea451-0c48-4fb9-b325-4340b47a0b61)
+
+### 리뷰 등록
+![리뷰등록](https://github.com/user-attachments/assets/8c199d58-7aa9-4140-ba9f-6a05ff6556de)
 
 ### 좋아요 목록
 ![좋아요](https://github.com/user-attachments/assets/3facb333-98d6-427b-a1e8-665312ad607b)
