@@ -57,7 +57,7 @@
 ### 주문 내역
 ![주문내역](https://github.com/user-attachments/assets/f7eea451-0c48-4fb9-b325-4340b47a0b61)
 
-### 찜한 상품
+### 좋아요 목록
 ![좋아요](https://github.com/user-attachments/assets/3facb333-98d6-427b-a1e8-665312ad607b)
 
 
