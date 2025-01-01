@@ -27,6 +27,16 @@
 ### [웹 서비스](https://github.com/sjmoon31/WebService/tree/master)
 - 상품 페이지 프론트엔드 구현
 
+### 사용 기술
+- Frontend
+ 
+- Backend
+    
+- Database
+
+- DevOps
+  
+
 ## 화면
 
 ### 로그인
