@@ -27,14 +27,26 @@
 ### [웹 서비스](https://github.com/sjmoon31/WebService/tree/master)
 - 상품 페이지 프론트엔드 구현
 
-### 사용 기술
-- Frontend
- 
-- Backend
-    
-- Database
+## 사용 기술
+#### - **Frontend**
+<img src="https://github.com/user-attachments/assets/0bf09c78-21c8-407d-a830-cb2633c664fe" height="60"/>
 
-- DevOps
+#### - **Backend**
+<img src="https://github.com/tmdwn725/moon_shop_user/assets/60638602/53151b11-4133-419d-92a1-7482315f30a0" height="60"/>
+<img src="https://github.com/tmdwn725/moon_shop_user/assets/60638602/50501c30-3c9d-4a77-ab60-9282c5d05d34" height="60"/>
+<img src="https://github.com/user-attachments/assets/83b6851e-1ae1-4b7e-b86f-bb6a811dd5cb" height="60"/>
+<img src="https://github.com/user-attachments/assets/d808f713-cd19-4de7-bfcf-41fe99c11992" height="60"/>
+<img src="https://github.com/tmdwn725/moon_shop_user/assets/60638602/fda4210f-b621-4927-ba70-59d01505c881" height="60"/>
+<img src="https://github.com/user-attachments/assets/163fe475-b5e9-48af-8b3d-b521e6b535aa" height="60"/>
+<img src="https://github.com/tmdwn725/moon_shop_user/assets/60638602/e5dddd23-ca95-4efc-804c-b18b0c90a194" height="60"/>
+<img src="https://github.com/tmdwn725/moon_shop_user/assets/60638602/dcfd0033-0d6e-44fc-a463-b3b8d999747c" height="60"/>
+
+#### - **Database**
+<img src="https://github.com/tmdwn725/moon_shop_user/assets/60638602/eae08828-39c0-4ebe-a03a-3b1509df91d0" height="50"/>
+
+#### - **DevOps**
+<img src="https://github.com/tmdwn725/moon_shop_user/assets/60638602/059e95f2-851b-4d13-ae88-8fd107a120d8" height="60"/>
+<img src="https://github.com/tmdwn725/moon_shop_user/assets/60638602/9879d4bd-8b3b-4f7c-9394-d9824e64d41d" height="60"/>
   
 
 ## 화면
